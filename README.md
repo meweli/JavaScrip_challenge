@@ -1,2 +1,2 @@
-# JavaScrip_challenge
+# JavaScript_challenge
 Fifteen JavaScript challenges
